@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <h1 align="center">Hi there 👋, I'm Ricardo</h1>
-<h3 align="center">A passionate software engineer from Spain, based in Madrid (Spain) and Medellín (Colombia).</h3>
+<h3 align="center">A passionate software engineer from Spain.</h3>
 
 - 🔭 I’m currently working as a senior software engineer at [BriteCore](https://www.britecore.com/)
 - 👯 I like working on distributed teams
