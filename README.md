@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
 
 - 🔭 I’m currently working as a senior software engineer at [BriteCore](https://www.britecore.com/)
-- 👯 I like working on distributed teams
-- ⚡ I live between two cities: Madrid (Spain) and Medellín (Colombia)
+- 👯 I like working on globaly distributed teams
+- ⚡ I'm usually in Madrid (Spain), but currently visiting Medellín (Colombia)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
